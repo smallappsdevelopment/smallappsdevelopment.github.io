@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy — Small Apps Dev</title>
+  <meta name="description" content="Privacy policy for Notch Remover, Notches and Rounded: Corners Curve by Small Apps Dev.">
+  <style>
+    :root {
+      --brand: #262877;
+      --accent: #F9D342;
+      --text: #1d1f2b;
+      --muted: #5b5e70;
+      --bg: #ffffff;
+      --surface: #f4f5fa;
+      --border: #e1e3ee;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text: #e8e9f2;
+        --muted: #a7aac0;
+        --bg: #12131c;
+        --surface: #1c1e2b;
+        --border: #2c2f42;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    header {
+      background: var(--brand);
+      color: #fff;
+      padding: 28px 16px;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; }
+    .brand { display: flex; align-items: center; gap: 12px; color: #fff; text-decoration: none; }
+    .logo {
+      width: 44px; height: 44px; border-radius: 50%;
+      background: #fff; color: var(--brand);
+      display: grid; place-items: center;
+      font-weight: 800; font-size: 22px; position: relative;
+    }
+    .logo::after {
+      content: ""; position: absolute; right: 9px; bottom: 11px;
+      width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+    }
+    .brand span { font-size: 20px; font-weight: 600; }
+    h1 { font-size: 30px; line-height: 1.2; margin: 24px 0 4px; }
+    .updated { color: rgba(255, 255, 255, .75); margin: 0; }
+    main { padding: 8px 16px 48px; }
+    h2 { font-size: 21px; margin: 36px 0 8px; }
+    h3 { font-size: 17px; margin: 20px 0 4px; }
+    p, li { color: var(--text); }
+    ul { padding-left: 22px; }
+    li { margin: 4px 0; }
+    a { color: #4a5bd6; }
+    @media (prefers-color-scheme: dark) { a { color: #9aa6ff; } }
+    .summary {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 4px 20px;
+      margin-top: 24px;
+    }
+    .muted { color: var(--muted); }
+    footer { border-top: 1px solid var(--border); padding: 20px 16px 32px; color: var(--muted); font-size: 14px; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="brand" href="./"><span class="logo">s</span><span>Small Apps Dev</span></a>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Effective 22 November 2026</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <p>
+    This policy explains what happens to your information when you use the following apps by
+    Small Apps Dev ("we", "us"):
+  </p>
+  <ul>
+    <li><strong>Notch Remover</strong> and <strong>Notch Remover Pro</strong></li>
+    <li><strong>Notches | Notch for Android</strong> and <strong>Notches Pro</strong></li>
+    <li><strong>Rounded: Corners Curve</strong> and its Pro version</li>
+  </ul>
+
+  <div class="summary">
+    <h2>In short</h2>
+    <ul>
+      <li>We don't ask for, collect or store any personal information. There are no accounts.</li>
+      <li>Your settings stay on your device.</li>
+      <li>The free apps show ads from Google AdMob. Google collects some device data to show and measure those ads, as described below.</li>
+      <li>The Pro apps show no ads and don't include the ads SDK.</li>
+      <li>We don't sell your data.</li>
+    </ul>
+  </div>
+
+  <h2>What the apps do on your device</h2>
+  <p>
+    The apps draw decorations over the screen edges: they hide or add a notch, round the corners and
+    style the navigation bar. To do this they use the "Display over other apps" permission. The apps
+    only draw over the screen; they don't read, record or capture what is shown on it.
+  </p>
+  <p>
+    Your choices, such as the selected decoration, its size and opacity, are saved on your device only.
+    They are removed when you uninstall the app.
+  </p>
+
+  <h2>Advertising in the free apps</h2>
+  <p>
+    The free versions of the apps show ads using the Google Mobile Ads SDK (Google AdMob), provided by
+    Google LLC. When an ad is requested or shown, the SDK may collect and send to Google:
+  </p>
+  <ul>
+    <li>your device's advertising ID and other device identifiers;</li>
+    <li>your IP address, which can be used to estimate your approximate location;</li>
+    <li>interactions with ads, such as views and taps;</li>
+    <li>diagnostic and performance information, such as app launch time and crash information related to ads.</li>
+  </ul>
+  <p>
+    Google uses this information to show ads, measure them, limit how often you see them and prevent
+    fraud, and, where you have agreed to it, to show ads based on your interests. Data is encrypted in
+    transit. Google handles this data under its own privacy policy:
+  </p>
+  <ul>
+    <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+    <li><a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a></li>
+    <li><a href="https://developers.google.com/admob/android/privacy/play-data-disclosure">Data disclosed by the Google Mobile Ads SDK</a></li>
+  </ul>
+  <p>
+    We receive only aggregated reports from AdMob, such as the number of ads shown. These reports don't
+    identify you.
+  </p>
+
+  <h2>Your choices</h2>
+  <h3>Consent (EEA, UK and Switzerland)</h3>
+  <p>
+    If you are in the European Economic Area, the United Kingdom or Switzerland, the free apps ask for
+    your consent before ads are personalized, using Google's consent form. You can change your choice
+    at any time from <strong>Privacy options</strong> in the app's <strong>More</strong> tab. If you
+    don't consent, you may still see non-personalized or limited ads.
+  </p>
+  <h3>US state privacy laws</h3>
+  <p>
+    Where US state laws give you the right to opt out of the sale or sharing of personal information
+    for targeted advertising, you can opt out through the same <strong>Privacy options</strong> entry
+    where it is shown.
+  </p>
+  <h3>Advertising ID</h3>
+  <p>
+    You can reset or delete your advertising ID at any time in your phone's settings, under
+    <em>Settings → Google → All services → Ads</em> (the exact path depends on the phone).
+  </p>
+  <h3>Removing ads</h3>
+  <p>The Pro version of each app has no ads and no ads SDK.</p>
+
+  <h2>Permissions</h2>
+  <ul>
+    <li><strong>Display over other apps</strong>: to draw the decorations.</li>
+    <li><strong>Foreground service</strong>: to keep the decorations on screen while you use other apps.</li>
+    <li><strong>Run at startup</strong>: to restore the decorations after the phone restarts.</li>
+    <li><strong>Internet and network state</strong>: to load ads in the free apps.</li>
+    <li><strong>Advertising ID</strong>: used by the ads SDK in the free apps, as described above.</li>
+  </ul>
+
+  <h2>Children</h2>
+  <p>
+    The apps are not directed at children under 13, and we don't knowingly collect information from
+    them. If you believe a child has used a free app and you are concerned about the data described
+    above, contact us and we will help.
+  </p>
+
+  <h2>Your rights</h2>
+  <p>
+    Depending on where you live, you may have the right to access, correct, delete or object to the
+    processing of your personal data. Because we don't collect or store personal data ourselves, we
+    have nothing to return or delete. Data collected for ads is held by Google; you can manage it
+    through your consent choices above and through
+    <a href="https://myadcenter.google.com/">My Ad Center</a>. You can also contact us with any
+    question about your data, and you have the right to complain to your local data protection
+    authority.
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>
+    We may update this policy, for example when an app adds a feature. The new version will be posted on
+    this page with a new effective date.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Small Apps Dev<br>
+    <a href="mailto:smallappsdevelopment@gmail.com">smallappsdevelopment@gmail.com</a>
+  </p>
+</main>
+
+<footer>
+  <div class="wrap">© 2026 Small Apps Dev · <a href="./">smallappsdevelopment.github.io</a></div>
+</footer>
+</body>
+</html>
